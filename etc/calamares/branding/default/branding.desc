@@ -17,10 +17,10 @@ navigation: widget
 strings:
     productName:         Xray_OS
     shortProductName:    Xray_OS
-    version:             1.01
-    shortVersion:        1.01
+    version:             1.06
+    shortVersion:        1.06
     versionedName:       Xray_OS
-    shortVersionedName:  Xray_OS 1.01
+    shortVersionedName:  Xray_OS 1.06
     bootloaderEntryName: Xray_OS
     productUrl:          https://gitlab.com/Xray_OS
     supportUrl:          https://gitlab.com/Xray_OS
@@ -42,8 +42,8 @@ slideshow:               "show.qml"
 slideshowAPI: 1
 
 style:
-   SidebarBackground:    "#282c34"
+   SidebarBackground:    "#292F34"
    SidebarText:          "#FFFFFF"
-   SidebarTextSelect:    "#cc0000"
-   SidebarTextHighlight: "#000000"
+   SidebarTextSelect:    "#292F34"
+   SidebarTextHighlight: "#D35400"
 
